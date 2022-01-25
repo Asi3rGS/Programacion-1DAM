@@ -1,5 +1,5 @@
 public class DNI {
-    //Atributos
+    //Atributos MÍOS
     private int numDni;
     private static final String LETRAS = "TRWAGMYFPDXBNJZSQVHLCKE";
 
